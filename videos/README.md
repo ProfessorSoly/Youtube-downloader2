@@ -6,4 +6,5 @@
 - 2 - 🎬 [How-to-Animate-Text-WORD-BY-WORD-in-Premiere-Pro](https://github.com/ProfessorSoly/Youtube-downloader2/tree/main/videos/How-to-Animate-Text-WORD-BY-WORD-in-Premiere-Pro)
 - 3 - 🎬 [I-Built-a-CREEPER-FACTORY-in-Minecraft-Hardcore](https://github.com/ProfessorSoly/Youtube-downloader2/tree/main/videos/I-Built-a-CREEPER-FACTORY-in-Minecraft-Hardcore)
 - 4 - 🎬 [I-Built-a-CREEPER-FACTORY-in-Minecraft-Hardcore_sigma_12766](https://github.com/ProfessorSoly/Youtube-downloader2/tree/main/videos/I-Built-a-CREEPER-FACTORY-in-Minecraft-Hardcore_sigma_12766)
-- 5 - 🎬 [Smooth-Text-Animation-Tutorial-(Premiere-Pro)](https://github.com/ProfessorSoly/Youtube-downloader2/tree/main/videos/Smooth-Text-Animation-Tutorial-%28Premiere-Pro%29)
+- 5 - 🎬 [Make-STUNNING-Text-Animations-in-Premiere-(Tutorial)](https://github.com/ProfessorSoly/Youtube-downloader2/tree/main/videos/Make-STUNNING-Text-Animations-in-Premiere-%28Tutorial%29)
+- 6 - 🎬 [Smooth-Text-Animation-Tutorial-(Premiere-Pro)](https://github.com/ProfessorSoly/Youtube-downloader2/tree/main/videos/Smooth-Text-Animation-Tutorial-%28Premiere-Pro%29)
